@@ -1,0 +1,4 @@
+/.venv
+/my_db.db
+/text.txt
+/__pycache__
